@@ -1,0 +1,7 @@
+This shell script gives you an option of which file to check.
+
+CodeCheck reads through the file you select,
+and displays all the "@refactor","@todo", and "@comment" lines on the console output.
+This will simplify your work.
+
+The options given to you are all the controller and model files of that project.
